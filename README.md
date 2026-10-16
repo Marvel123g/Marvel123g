@@ -4,6 +4,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=760&height=44&lines=Each%20line%20of%20code%20represent%20something%20meaningful" alt="Typing headlines" />
+</p>
+
 ### 🚀 About Me
 
 I'm a passionate and detail-oriented frontend developer who enjoys building clean, responsive, and user-friendy web experiences. My journey began with small projects and coding challenges on a platform called Frontend Mentor Challenge, where I learned how to turn real-world designs into functional interfaces and improve my problem-solving skill. Beyond frontend development, I'm expanding my skills with React Native and gaining practical knowledge of backend concepts such as APIs, authentication, databases, and server-side development.
